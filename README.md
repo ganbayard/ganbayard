@@ -3,7 +3,7 @@
 # Hi, I'm ganbayard
 
 I build systems where **markets, documents, and AI agents** meet.<br>
-R&D Architect at **QuantLabs**, building Ⓘntelligence ⎈rchestration flows for Quant Research, Systematic Trading, and AI Agents.
+R&D Architect at **QuantLabs**, building Ⓘntelligence ⎈rchestration pipelines for Quant Research, Systematic Trading, and AI Agents.
 
 </div>
 
