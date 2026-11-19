@@ -7,10 +7,6 @@
 I build systems where **markets, documents, and AI agents** meet.<br>
 Engineer at **QuantLabs**: quant research, document AI, and agent tooling.
 
-[![X](https://img.shields.io/badge/@ganbayards-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ganbayards)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganbayard/)
-[![GitHub followers](https://img.shields.io/github/followers/ganbayard?style=for-the-badge&logo=github&label=Follow&color=181717)](https://github.com/ganbayard)
-
 </div>
 
 ---
@@ -53,11 +49,6 @@ Engineer at **QuantLabs**: quant research, document AI, and agent tooling.
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-## 🤝 Let's talk
-
-I'm happy to talk about **quant research**, **document AI**, or **building agents**.<br>
-DMs are open on [X](https://x.com/ganbayards) and [LinkedIn](https://www.linkedin.com/in/ganbayard/).
 
 <div align="center">
 <sub>Small tools, rigorous tests, and as little magic as possible.</sub>
