@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ganbayar 👋
+# Hi, I'm ganbayard
 
 ### Ⓘntelligence ⎈rchestration
 
@@ -10,8 +10,6 @@ Engineer at **QuantLabs**: quant research, document AI, and agent tooling.
 </div>
 
 ---
-
-## 🛠️ Toolbox
 
 **Programming**
 
