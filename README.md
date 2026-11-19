@@ -17,7 +17,7 @@ Engineer at **QuantLabs**: quant research, document AI, and agent tooling.
 
 ## 🛠️ Toolbox
 
-**Languages**
+**Programming**
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -28,7 +28,7 @@ Engineer at **QuantLabs**: quant research, document AI, and agent tooling.
 ![HCL](https://img.shields.io/badge/HCL-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![MQL5](https://img.shields.io/badge/MQL5-4A76B8?style=flat-square)
 
-**ML and computer vision**
+**ML Stuffs**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
@@ -36,14 +36,14 @@ Engineer at **QuantLabs**: quant research, document AI, and agent tooling.
 ![Detectron2](https://img.shields.io/badge/Detectron2-0467DF?style=flat-square&logo=meta&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square&logo=ultralytics&logoColor=white)
 
-**AI agents**
+**Agents**
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 
-**Data and infrastructure**
+**Operation Infra**
 
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Flink](https://img.shields.io/badge/Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white)
