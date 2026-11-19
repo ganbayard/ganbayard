@@ -5,6 +5,8 @@
 I build systems where **markets, documents, and AI agents** meet.<br>
 R&D Architect at **QuantLabs**: Building Ⓘntelligence ⎈rchestration pipelines for Quant Research and Systematic Trading.
 
+[`ganbayard.github.io`](https://ganbayard.github.io)
+
 </div>
 
 ---
