@@ -2,10 +2,8 @@
 
 # Hi, I'm ganbayard
 
-### Ⓘntelligence ⎈rchestration
-
 I build systems where **markets, documents, and AI agents** meet.<br>
-Engineer at **QuantLabs**: quant research, document AI, and agent tooling.
+R&D Architect at **QuantLabs**, building Ⓘntelligence ⎈rchestration flows for Quant Research, Systematic Trading, and AI Agents.
 
 </div>
 
